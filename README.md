@@ -16,7 +16,7 @@
 
 ## 📡 Sobre este repositorio
 
-Este repositorio contiene el código fuente de mi portfolio personal, construido con HTML, CSS y JavaScript puro. Alojado gratuitamente en **GitHub Pages**.
+Este repositorio contiene el código fuente de mi portfolio personal, construido con HTML, CSS y JavaScript puro. 
 
 ## 🛠️ Tecnologías
 
