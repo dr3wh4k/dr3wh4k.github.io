@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28302095/README.md)
 # dr3wh4k.github.io
 
 > Portfolio personal de ciberseguridad — [dr3wh4k.github.io](https://dr3wh4k.github.io)
